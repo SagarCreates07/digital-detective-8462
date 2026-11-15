@@ -17,3 +17,9 @@
 ## How this repo is organised
 
 Each mission was completed, documented in its own README, and committed separately.
+
+## My Learning
+
+- I learned that Git has two steps for saving work: staging chooses which changes to include, and committing saves them as a snapshot with a message.
+- I learned that computers store numbers in binary, and that every conversion between binary, decimal and hexadecimal is about place values.
+- I learned that a pipe in Terminal sends the output of one command into another, like `ls -l | head -n 3`.
