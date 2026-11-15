@@ -29,13 +29,13 @@ Create a correctly named public GitHub repository and set up a folder structure 
 Versions checked: Python [your version], Git [your version]
 
 ## 4. My understanding
-[A repository (repo) is a place where your project files and their version history are stored and managed using Git.]
+A repository is a place where your project files and their version history are stored and managed using Git.
 
 ## 5. Difficulties faced
-[No major difficulties.]
+No major difficulties.
 
 ## 6. How I resolved them
-[Not applicable.]
+Not applicable.
 
 ## 7. Evidence / files
 - README.md (root)
